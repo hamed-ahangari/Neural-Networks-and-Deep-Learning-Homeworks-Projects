@@ -30,4 +30,10 @@ List of homework and projects:
   * Project #3
   * Extra homework
 
-P.S. assignments are written in Persian; so if you are interested in having them in other languages and want help to translate them, be in touch with me using the iamthehamed@gmail.com address.
+## Contact
+
+Assignments are written in Persian; so if you are interested in having them in other languages and want help to translate them, be in touch with me using the iamthehamed@gmail.com address.
+
+Plus, if you want to know about me, check my LinkedIn profile or my webpage:
+- [Hamed Ahangari on LinkedIn](https://www.linkedin.com/in/hamed-ahangari/)
+- [Hamed Ahangari's webpage](https://hamed-ahangari.github.io/)
