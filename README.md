@@ -2,7 +2,7 @@
 Homeworks and Project of NNDL course at University of Tehran
 
 ## Context
-For two semesters at the [University of Tehran](https://ut.ac.ir/en), I worked with [Dr. Ahmad Kalhor](https://www.linkedin.com/in/ahmad-kalhor-63a8b872/) as Head T.A. of Neural network and Deep learning course.
+For two semesters at the [school of ECE](https://ece.ut.ac.ir/en), [University of Tehran](https://ut.ac.ir/en), I worked with [Dr. Ahmad Kalhor](https://www.linkedin.com/in/ahmad-kalhor-63a8b872/) as Head T.A. of Neural network and Deep learning course.
 
 During those semesters, I supervised and collaborated with almost twenty talented teaching assistants, which leads to the designing and publishing of 17 homework and projects.
 
