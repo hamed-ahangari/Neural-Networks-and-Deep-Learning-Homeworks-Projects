@@ -1,8 +1,8 @@
 # Neural Networks and Deep Learning: Homeworks & Projects
-Homeworks and Project of NNDL course at University of Tehran
+Homework and Projects of NNDL course at University of Tehran
 
 ## Context
-For two semesters at the [school of ECE](https://ece.ut.ac.ir/en), [University of Tehran](https://ut.ac.ir/en), I worked with [Dr. Ahmad Kalhor](https://www.linkedin.com/in/ahmad-kalhor-63a8b872/) as Head T.A. of Neural network and Deep learning course.
+For two semesters at the [school of ECE](https://ece.ut.ac.ir/en), [University of Tehran](https://ut.ac.ir/en), I worked with [Dr. Ahmad Kalhor](https://www.linkedin.com/in/ahmad-kalhor-63a8b872/) as Head T.A. of Neural network and Deep Learning course.
 
 During those semesters, I supervised and collaborated with almost twenty talented teaching assistants, which leads to the designing and publishing of 17 homework and projects.
 
@@ -32,7 +32,7 @@ List of homework and projects:
 
 ## Contact
 
-Assignments are written in Persian; so if you are interested in having them in other languages and want help to translate them, be in touch with me using the iamthehamed@gmail.com address.
+We've prepared these assignments in Persian, so if you are interested in having them in other languages and want help translate them, be in touch with me using the iamthehamed@gmail.com address.
 
 Plus, if you want to know about me, check my LinkedIn profile or my webpage:
 - [Hamed Ahangari on LinkedIn](https://www.linkedin.com/in/hamed-ahangari/)
